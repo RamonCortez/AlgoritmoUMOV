@@ -1,0 +1,5 @@
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.AssemblyInfoInputs.cache
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.AssemblyInfo.cs
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.csproj.CoreCompileInputs.cache
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.sourcelink.json
