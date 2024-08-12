@@ -3,3 +3,13 @@
 /workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.AssemblyInfo.cs
 /workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.csproj.CoreCompileInputs.cache
 /workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.sourcelink.json
+/workspaces/AlgoritmoUMOV/bin/Debug/net8.0/AlgoritmoUMOV
+/workspaces/AlgoritmoUMOV/bin/Debug/net8.0/AlgoritmoUMOV.deps.json
+/workspaces/AlgoritmoUMOV/bin/Debug/net8.0/AlgoritmoUMOV.runtimeconfig.json
+/workspaces/AlgoritmoUMOV/bin/Debug/net8.0/AlgoritmoUMOV.dll
+/workspaces/AlgoritmoUMOV/bin/Debug/net8.0/AlgoritmoUMOV.pdb
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.dll
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/refint/AlgoritmoUMOV.dll
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.pdb
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/AlgoritmoUMOV.genruntimeconfig.cache
+/workspaces/AlgoritmoUMOV/obj/Debug/net8.0/ref/AlgoritmoUMOV.dll

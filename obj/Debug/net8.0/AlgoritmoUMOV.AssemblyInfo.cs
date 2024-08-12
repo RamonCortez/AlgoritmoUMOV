@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoritmoUMOV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a733a0539235338cdbc451d65fe9f04976cd026c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57843862663c8a35df6bb95ee1f5184100d0d24a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoritmoUMOV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoritmoUMOV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
